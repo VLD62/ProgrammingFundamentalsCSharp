@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 1. Passed\Problem 1. Passed\bin\Debug\Problem_1.Passed.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 1. Passed\Problem 1. Passed\bin\Debug\Problem_1.Passed.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 1. Passed\Problem 1. Passed\bin\Debug\Problem_1.Passed.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 1. Passed\Problem 1. Passed\obj\Debug\Problem_1.Passed.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 1. Passed\Problem 1. Passed\obj\Debug\Problem_1.Passed.pdb

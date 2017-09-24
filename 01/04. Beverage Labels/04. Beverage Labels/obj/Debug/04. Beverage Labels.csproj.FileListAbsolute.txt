@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\01\04. Beverage Labels\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\01\04. Beverage Labels\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\04. Beverage Labels\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+c:\users\boza\documents\visual studio 2013\Projects\01\04. Beverage Labels\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\04. Beverage Labels\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\01\05. Character Stats\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\01\05. Character Stats\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\05. Character Stats\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+c:\users\boza\documents\visual studio 2013\Projects\01\05. Character Stats\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\05. Character Stats\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

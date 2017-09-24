@@ -1,0 +1,6 @@
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\Problem 1. Debit Card Number\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

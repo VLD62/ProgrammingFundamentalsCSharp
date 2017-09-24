@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\01\02. Rectangle area\02. Rectangle area\bin\Debug\_02.Rectangle_area.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\01\02. Rectangle area\02. Rectangle area\bin\Debug\_02.Rectangle_area.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\02. Rectangle area\02. Rectangle area\bin\Debug\_02.Rectangle_area.pdb
+c:\users\boza\documents\visual studio 2013\Projects\01\02. Rectangle area\02. Rectangle area\obj\Debug\_02.Rectangle_area.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\02. Rectangle area\02. Rectangle area\obj\Debug\_02.Rectangle_area.pdb

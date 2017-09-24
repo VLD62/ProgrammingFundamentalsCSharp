@@ -1,0 +1,6 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\obj\Debug\08. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\08. Sum of Odd Numbers\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.pdb

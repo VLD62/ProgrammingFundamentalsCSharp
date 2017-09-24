@@ -1,0 +1,6 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 6. Theatre Promotions\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.pdb

@@ -1,0 +1,6 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\obj\Debug\Problem 7. Divisible by 3.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 7. Divisible by 3\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.pdb

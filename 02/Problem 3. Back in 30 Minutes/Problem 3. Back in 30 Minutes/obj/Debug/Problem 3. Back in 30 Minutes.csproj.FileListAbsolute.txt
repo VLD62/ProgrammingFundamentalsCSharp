@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 3. Back in 30 Minutes\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 3. Back in 30 Minutes\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 3. Back in 30 Minutes\Problem 3. Back in 30 Minutes\bin\Debug\Problem_3.Back_in_30_Minutes.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 3. Back in 30 Minutes\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 3. Back in 30 Minutes\Problem 3. Back in 30 Minutes\obj\Debug\Problem_3.Back_in_30_Minutes.pdb

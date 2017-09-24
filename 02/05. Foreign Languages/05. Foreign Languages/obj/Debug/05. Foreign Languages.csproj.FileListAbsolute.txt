@@ -1,0 +1,13 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\05. Foreign Languages.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\05. Foreign Languages.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\05. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+C:\Users\Win10\Documents\Visual Studio 2017\Projects\02\05. Foreign Languages\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb

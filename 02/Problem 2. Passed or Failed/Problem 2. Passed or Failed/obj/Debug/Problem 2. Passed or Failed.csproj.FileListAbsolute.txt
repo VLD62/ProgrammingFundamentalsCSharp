@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 2. Passed or Failed\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 2. Passed or Failed\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 2. Passed or Failed\Problem 2. Passed or Failed\bin\Debug\Problem_2.Passed_or_Failed.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 2. Passed or Failed\Problem 2. Passed or Failed\obj\Debug\Problem_2.Passed_or_Failed.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\Problem 2. Passed or Failed\Problem 2. Passed or Failed\obj\Debug\Problem_2.Passed_or_Failed.pdb

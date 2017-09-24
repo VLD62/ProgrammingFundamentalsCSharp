@@ -1,0 +1,5 @@
+c:\users\boza\documents\visual studio 2013\Projects\01\03. Miles to Kilometers\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\01\03. Miles to Kilometers\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\03. Miles to Kilometers\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+c:\users\boza\documents\visual studio 2013\Projects\01\03. Miles to Kilometers\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+c:\users\boza\documents\visual studio 2013\Projects\01\03. Miles to Kilometers\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

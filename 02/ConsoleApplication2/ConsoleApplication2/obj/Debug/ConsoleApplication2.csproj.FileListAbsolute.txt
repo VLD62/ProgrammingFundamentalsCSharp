@@ -1,0 +1,6 @@
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\boza\documents\visual studio 2013\Projects\02\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
