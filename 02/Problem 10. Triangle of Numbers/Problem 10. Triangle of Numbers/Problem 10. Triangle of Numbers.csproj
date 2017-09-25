@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E31B20E9-EE25-4492-9675-DA14AFCAA273}</ProjectGuid>
+    <ProjectGuid>{BED2A5BD-9F80-401B-856C-4D530D7676DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Problem_7.Cake_Ingredients</RootNamespace>
-    <AssemblyName>Problem_7.Cake_Ingredients</AssemblyName>
+    <RootNamespace>Problem_10.Triangle_of_Numbers</RootNamespace>
+    <AssemblyName>Problem_10.Triangle_of_Numbers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

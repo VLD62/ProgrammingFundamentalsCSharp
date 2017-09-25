@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E31B20E9-EE25-4492-9675-DA14AFCAA273}</ProjectGuid>
+    <ProjectGuid>{171845D1-F848-4672-9C92-48B13C8435FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Problem_7.Cake_Ingredients</RootNamespace>
-    <AssemblyName>Problem_7.Cake_Ingredients</AssemblyName>
+    <RootNamespace>Problem_8.Calories_Counter</RootNamespace>
+    <AssemblyName>Problem_8.Calories_Counter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

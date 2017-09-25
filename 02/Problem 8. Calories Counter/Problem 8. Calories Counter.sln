@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Cake Ingredients", "Problem 7. Cake Ingredients\Problem 7. Cake Ingredients.csproj", "{E31B20E9-EE25-4492-9675-DA14AFCAA273}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Calories Counter", "Problem 8. Calories Counter\Problem 8. Calories Counter.csproj", "{171845D1-F848-4672-9C92-48B13C8435FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E31B20E9-EE25-4492-9675-DA14AFCAA273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E31B20E9-EE25-4492-9675-DA14AFCAA273}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E31B20E9-EE25-4492-9675-DA14AFCAA273}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E31B20E9-EE25-4492-9675-DA14AFCAA273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171845D1-F848-4672-9C92-48B13C8435FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171845D1-F848-4672-9C92-48B13C8435FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171845D1-F848-4672-9C92-48B13C8435FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171845D1-F848-4672-9C92-48B13C8435FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FAB2E989-842B-4567-9A3D-7ABB5AFD37C6}
+		SolutionGuid = {BBAAD84D-5B7B-482D-87A0-EA4BB5F505AA}
 	EndGlobalSection
 EndGlobal

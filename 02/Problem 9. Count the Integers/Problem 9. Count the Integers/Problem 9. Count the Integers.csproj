@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E31B20E9-EE25-4492-9675-DA14AFCAA273}</ProjectGuid>
+    <ProjectGuid>{647D13CC-CED7-470B-8E93-3EE01C8539A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Problem_7.Cake_Ingredients</RootNamespace>
-    <AssemblyName>Problem_7.Cake_Ingredients</AssemblyName>
+    <RootNamespace>Problem_9.Count_the_Integers</RootNamespace>
+    <AssemblyName>Problem_9.Count_the_Integers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
