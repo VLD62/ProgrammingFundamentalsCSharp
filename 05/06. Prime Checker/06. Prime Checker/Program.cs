@@ -3,7 +3,8 @@
     using System;
     class Program
     {
-        static bool PrimeChecker (long num)  {
+        static bool PrimeChecker(long num)
+        {
             bool isPrime = true;
             if (num < 2)
             {
