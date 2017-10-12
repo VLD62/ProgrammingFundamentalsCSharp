@@ -24,7 +24,7 @@ namespace _9.Longer_Line
         {
             if (Math.Sqrt((X1 * X1) + (Y1 * Y1)) <= Math.Sqrt((X2 * X2) + (Y2 * Y2)))
             {
-                 return (X1 + ", " + Y1);
+                return (X1 + ", " + Y1);
             }
 
             else
@@ -32,7 +32,7 @@ namespace _9.Longer_Line
                 return (X2 + ", " + Y2);
             }
 
-          
+
         }
         static void Main(string[] args)
         {
@@ -45,15 +45,15 @@ namespace _9.Longer_Line
             var X4 = double.Parse(Console.ReadLine());
             var Y4 = double.Parse(Console.ReadLine());
 
-            
 
-           double [] points1 = (GetFarestPoints(X1, Y1, X3, Y3)).Split(',').Select(double.Parse).ToArray();
-           double [] points2 = (GetFarestPoints(X2, Y2, X4, Y4)).Split(',').Select(double.Parse).ToArray();
 
-    
-            Console.WriteLine("("+GetClosestPoints(points1[0], points1[1], points2[0], points2[1])+")("+
-                GetFarestPoints(points1[0], points1[1], points2[0],points2[1]) +")");
-        
+            double[] points1 = (GetFarestPoints(X1, Y1, X3, Y3)).Split(',').Select(double.Parse).ToArray();
+            double[] points2 = (GetFarestPoints(X2, Y2, X4, Y4)).Split(',').Select(double.Parse).ToArray();
+
+
+            Console.WriteLine("(" + GetClosestPoints(points1[0], points1[1], points2[0], points2[1]) + ")(" +
+                GetFarestPoints(points1[0], points1[1], points2[0], points2[1]) + ")");
+
 
 
 

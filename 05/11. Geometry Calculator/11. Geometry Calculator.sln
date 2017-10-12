@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Geometry Calculator", "11. Geometry Calculator\11. Geometry Calculator.csproj", "{AACD1C32-FCB3-4B37-89BD-170B5A15547E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AACD1C32-FCB3-4B37-89BD-170B5A15547E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACD1C32-FCB3-4B37-89BD-170B5A15547E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACD1C32-FCB3-4B37-89BD-170B5A15547E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACD1C32-FCB3-4B37-89BD-170B5A15547E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C810F41-A347-484C-9357-2137D2E98869}
+	EndGlobalSection
+EndGlobal
