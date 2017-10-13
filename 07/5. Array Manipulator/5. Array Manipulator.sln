@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Array Manipulator", "5. Array Manipulator\5. Array Manipulator.csproj", "{92F0C1CF-BAD4-4A67-B201-20E240CE8B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F0C1CF-BAD4-4A67-B201-20E240CE8B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F0C1CF-BAD4-4A67-B201-20E240CE8B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F0C1CF-BAD4-4A67-B201-20E240CE8B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F0C1CF-BAD4-4A67-B201-20E240CE8B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34E8317-BD3E-4B43-998E-1B84EB9461C6}
+	EndGlobalSection
+EndGlobal
