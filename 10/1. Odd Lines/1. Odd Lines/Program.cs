@@ -12,11 +12,11 @@ namespace _1.Odd_Lines
         static void Main(string[] args)
         {
 
-            string contents = File.ReadAllText("C:\\Users\\Win10\\Desktop\\Input.txt");
+            string contents = File.ReadAllText("C:\\Users\\Win10\\Dev\\Input.txt");
 
             string[] lines = contents.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
 
-            using (StreamWriter outputFile = new StreamWriter("C:\\Users\\Win10\\Desktop\\Output.txt"))
+            using (StreamWriter outputFile = new StreamWriter("C:\\Users\\Win10\\Dev\\Output.txt"))
             {
 
                 for (int i = 0; i < lines.Length; i++)
