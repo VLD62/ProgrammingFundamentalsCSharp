@@ -14,7 +14,7 @@ namespace _01.Most_Frequent_Number
         static void Main(string[] args)
         {
 
-            string contents = File.ReadAllText("C:\\Users\\Win10\\Dev\\Input.txt");
+            string contents = File.ReadAllText("Input.txt");
 
             int[] numbers = contents.Split(' ').Select(int.Parse).ToArray();
             int counter = 0;
@@ -46,7 +46,7 @@ namespace _01.Most_Frequent_Number
                     }
                 }
             }
-            using (StreamWriter outputFile = new StreamWriter("C:\\Users\\Win10\\Dev\\Output.txt"))
+            using (StreamWriter outputFile = new StreamWriter("Output.txt"))
             {
                 outputFile.WriteLine(number);
             }

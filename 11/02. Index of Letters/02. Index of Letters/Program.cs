@@ -11,14 +11,14 @@
     {
         static void Main(string[] args)
         {
-            string contents = File.ReadAllText("C:\\Users\\Win10\\Dev\\Input.txt");
+            string contents = File.ReadAllText("Input.txt");
 
             char[] lettersArray = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
 
             char[] wordArray = contents.ToLower().ToCharArray();
 
 
-            using (StreamWriter outputFile = new StreamWriter("C:\\Users\\Win10\\Dev\\Output.txt"))
+            using (StreamWriter outputFile = new StreamWriter("Output.txt"))
             {
 
                 for (int i = 0; i < wordArray.Length; i++)

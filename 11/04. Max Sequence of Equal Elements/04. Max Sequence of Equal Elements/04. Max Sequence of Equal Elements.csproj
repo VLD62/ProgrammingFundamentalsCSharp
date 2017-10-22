@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A0634B0-B5DA-4303-A637-02003973A016}</ProjectGuid>
+    <ProjectGuid>{CE2C82D4-7FAE-44AB-ADD5-188C08FEC733}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02.Index_of_Letters</RootNamespace>
-    <AssemblyName>_02.Index_of_Letters</AssemblyName>
+    <RootNamespace>_04.Max_Sequence_of_Equal_Elements</RootNamespace>
+    <AssemblyName>_04.Max_Sequence_of_Equal_Elements</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Input.txt" />
-    <Content Include="Ouput.txt" />
+    <Content Include="Output.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

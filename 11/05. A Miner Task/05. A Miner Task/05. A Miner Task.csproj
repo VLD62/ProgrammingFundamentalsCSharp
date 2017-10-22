@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A0634B0-B5DA-4303-A637-02003973A016}</ProjectGuid>
+    <ProjectGuid>{D7AAAFFF-02D6-43FE-839A-A253AC49B621}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02.Index_of_Letters</RootNamespace>
-    <AssemblyName>_02.Index_of_Letters</AssemblyName>
+    <RootNamespace>_05.A_Miner_Task</RootNamespace>
+    <AssemblyName>_05.A_Miner_Task</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
