@@ -12,7 +12,6 @@ namespace _05.A_Miner_Task
         static void Main(string[] args)
         {
             string input;
-          
             int counter = 1;
             IDictionary<string, int> resources = new Dictionary<string, int>();
             using (var fileStream = File.OpenRead("Input.txt"))
@@ -21,46 +20,35 @@ namespace _05.A_Miner_Task
 
                 while ((input = streamReader.ReadLine()) != null)
                 {
-                    //input = streamReader.ReadLine();
-                    //Console.WriteLine(input);
-      
+                    counter++;
                     if (input != "stop")
                     {
-                        counter++;
-                        if (counter % 2 == 0)
+                        int value = int.Parse(streamReader.ReadLine());
+                        if (resources.ContainsKey(input))
                         {
-                            int value = int.Parse(streamReader.ReadLine());
-                            if (resources.ContainsKey(input))
-                            {
-                                resources[input] += value;
-                            }
-                            else
-                            {
-                                resources.Add(input, value);
-                            }
+                            resources[input] += value;
                         }
                         else
                         {
-                            if (counter > 1)
-                            {
-                                input = streamReader.ReadLine();
-                                if (!resources.ContainsKey(input) && input != "stop")
-                                {
-                                    resources.Add(input, 0);
-                                }
-                            }
+                            resources.Add(input, value);
                         }
+
                     }
-                   
                 }
-                var list = resources.Keys.ToList();
+
+            }
+            var list = resources.Keys.ToList();
+
+            using (StreamWriter outputFile = new StreamWriter("Output.txt"))
+            {
                 foreach (var item in list)
                 {
-                    Console.WriteLine("{0} -> {1}", item, resources[item]);
+                    outputFile.WriteLine("{0} -> {1}", item, resources[item]);
                 }
 
             }
         }
     }
 }
+
 
