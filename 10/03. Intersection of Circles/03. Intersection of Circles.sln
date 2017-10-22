@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Intersection of Circles", "03. Intersection of Circles\03. Intersection of Circles.csproj", "{9CC1E158-7FD9-4D9E-94C3-5F1B71C5F5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC1E158-7FD9-4D9E-94C3-5F1B71C5F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC1E158-7FD9-4D9E-94C3-5F1B71C5F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC1E158-7FD9-4D9E-94C3-5F1B71C5F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC1E158-7FD9-4D9E-94C3-5F1B71C5F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCF150A-4B08-4CF2-B05F-B676869C1F80}
+	EndGlobalSection
+EndGlobal
