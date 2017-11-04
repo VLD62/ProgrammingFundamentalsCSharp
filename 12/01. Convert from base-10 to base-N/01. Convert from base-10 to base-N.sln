@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Convert from base-10 to base-N", "01. Convert from base-10 to base-N\01. Convert from base-10 to base-N.csproj", "{8C54957B-7CA2-4AD1-A9B1-F6F6F062DE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C54957B-7CA2-4AD1-A9B1-F6F6F062DE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C54957B-7CA2-4AD1-A9B1-F6F6F062DE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C54957B-7CA2-4AD1-A9B1-F6F6F062DE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C54957B-7CA2-4AD1-A9B1-F6F6F062DE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B87578-0739-4DD6-BFCB-E87306A76185}
+	EndGlobalSection
+EndGlobal
